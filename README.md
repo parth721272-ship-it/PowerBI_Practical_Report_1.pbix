@@ -168,9 +168,6 @@ Contains a detailed table with order information including:
 
 Screenshots of the completed Power BI dashboard and detailed data page are included in the `screenshots` folder.
 
-### Dashboard
+### Video Link
+https://drive.google.com/file/d/1kBY2oNU029IAEHGlO5h75ZkwXqi87QJi/view?usp=drive_link
 
-Add your screenshot here:
-
-```markdown
-![Power BI Dashboard](screenshots/dashboard.png)
